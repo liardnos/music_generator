@@ -5,6 +5,6 @@
 sudo pip3 install music
 
 # run
-./music_gen [seed]\n
-or\n
-python3 music_gen [seed]\n
+#./music_gen [seed]
+#or
+#python3 music_gen [seed]
